@@ -1,7 +1,7 @@
 # About QGISPDAM
 As we know that one of the GIS applications that have an opensource license is QGIS. QGIS or Quantum GIS is an open source Geographic Information System application that supports multiple data vector formats, spatial databases and many raster data formats. Unlike many other open source GIS programs, QGIS is available for a number of operating systems, including Windows and Mac OSX. The program offers standard GIS functions, including a wide range of mapping features, data editing, on-the-fly projections and GRASS digitizing. support for plugins extends the functionality to a more advanced level by providing additional tools such as GPS data support, georeferencing, and additional mapping elements.
 
-![Alt text](/screenshot/gispdam3.jpg?raw=true)
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/26ab6e14-179d-422c-92de-00275469b798" />
 
 With such a vast capability, Suherman makes a simple QGIS project that has been designed in such a way to be used for digitization activities of Water Supply or Waste Water Company their pipeline network assets and its customer position. It is thus expected to help Water Supply or Waste Water Company who are new to or will begin the process of digitizing their assets.
 
@@ -33,7 +33,7 @@ As a basic map used in this project is to take advantage of Tile Server XYZ feat
 ## Requirements
 1.	QGIS 3.34 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 3.0 and above.
 The QGIS application can be downloaded at http://www.qgis.org/en/site/forusers/download.html .
-This Project file can also be opened in Android Device with installed QFIELD Android app. The QFIELD application can be downloaded at https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
+
 2. After you install QGIS, please install Qfield Plugin.
 
 3.	Internet Connection. To be able to open the raster of the OSM Map tile server, it must be provided internet connection
