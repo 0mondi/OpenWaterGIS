@@ -18,7 +18,8 @@ has provided 10 basic layer commonly used by PDAM that is :
 9.  Prospective Customer
 10. Landmark
 
-![Alt text](/screenshot/gispdam4.jpg?raw=true)
+<img width="379" height="811" alt="image" src="https://github.com/user-attachments/assets/21e32939-b1b8-4c88-b2b7-abbb5770d231" />
+
 
 The ten layers have also been designed by Suherman in order to perform digitization and equipped with input form Attributes commonly required by the Water Supply or Waste Water Company.
 
